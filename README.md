@@ -1,9 +1,5 @@
 # KitchenKart-
 
-steps to see my project--
+The project is hosted here :-
 
-git clone https://github.com/Tejaspatil1905/KitchenKart-.git
-
-cd frontend
-
-npm run dev
+https://kitchenkart-tp.netlify.app/
